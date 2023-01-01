@@ -40,7 +40,7 @@
     
 ---
 
-![Snake animation](https://github.com/hectorherreraespinola/hectorherreraespinola/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mctechnology17/hectorherreraespinola/blob/output/github-contribution-grid-snake.svg)
 
 
 
