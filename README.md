@@ -38,9 +38,7 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>&nbsp;
 
     
----
 
-![Snake animation](https://github.com/mctechnology17/hectorherreraespinola/blob/output/github-contribution-grid-snake.svg)
 
 
 
