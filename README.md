@@ -14,11 +14,11 @@
 </div>
 
 ---
-### 👨🏽‍💻 About Mee: 
+### 👨🏽‍💻 About Me: 
 
 - ✔ Python, SQL, Power BI, NOSQL
 
-- 🗣 I speak Spanish and English fluently, an intermidate of Portuguese and learning the basics of japanese
+- 🗣  I speak Spanish and English fluently, an intermediate of Portuguese, and learning the basics of Japanese
 
 - 📚 I am currently learning about Machine Learning and Video Game Development
 
@@ -35,7 +35,12 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="PANDAS" alt="PANDAS" width="40" height="40"/>&nbsp;
     <img src= "https://store-images.s-microsoft.com/image/apps.8409.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.69df8840-e52b-4609-9202-6f2c5f92aea1" title="POWER BI" alt="POWER BI" width="40" height="40"/>&nbsp;
     <img src= "https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" title="SPARK" alt="SPARK" width="40" height="40"/>&nbsp;
+    <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>&nbsp;
+
     
+---
+
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
 
