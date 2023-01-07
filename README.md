@@ -5,7 +5,7 @@
 
 
 
-<p align="left">### 👨🏽‍💻 About Me: 
+<p align="left">👨🏽‍💻 About Me: 
 
 <p align="left">-🌱 I’m currently learning C#
 
