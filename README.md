@@ -8,7 +8,7 @@
 
 <p align="left">👨🏽‍💻 About Me: 
     
-<h3 align="left">-👨🏽‍🎓 I'm an Industrial Engineer
+<p align="left">-👨🏽‍🎓 I'm an Industrial Engineer
 
 <p align="left">-🌱 I'm currently learning C#
 
