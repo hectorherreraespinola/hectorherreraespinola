@@ -7,16 +7,17 @@
 
 
 <p align="left">👨🏽‍💻 About Me: 
+<h3 align="left">👨🏽‍🎓 I'm an Industrial Engineer
 
-<p align="left">-🌱 I’m currently learning C#
+<p align="left">-🌱 I'm currently learning C#
 
 <p align="left">-👨‍💻 All of my projects are available at [https://github.com/hectorherreraespinola](https://github.com/hectorherreraespinola)
 
-<p align="left">-💬 Ask me about **Python**
+<p align="left">-💬 Ask me about Python
 
 <p align="left">-📫 How to reach me **herrerae.hj@icloud.com**
 
-<p align="left">-⚡ Fun fact **I like to cook**
+<p align="left">-⚡ Fun fact I like to cook
 
 <p align="left">-🗣  I speak Spanish and English fluently, an intermediate of Portuguese, and learning the basics of Japanese
 
