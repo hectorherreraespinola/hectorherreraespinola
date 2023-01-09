@@ -18,7 +18,7 @@
 
 <p align="left">-📫 How to reach me herrerae.hj@icloud.com
 
-<p align="left">-⚡ Fun fact I like to cook
+<p align="left">-⚡ Fun fact: I like to cook
 
 <p align="left">-🗣  I speak Spanish and English fluently, an intermediate of Portuguese, and learning the basics of Japanese
 
