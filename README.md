@@ -16,7 +16,7 @@
 
 <p align="left">-💬 Ask me about Python
 
-<p align="left">-📫 How to reach me **herrerae.hj@icloud.com**
+<p align="left">-📫 How to reach me herrerae.hj@icloud.com
 
 <p align="left">-⚡ Fun fact I like to cook
 
