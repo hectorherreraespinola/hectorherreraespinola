@@ -10,7 +10,7 @@
     
 <p align="left">-👨🏽‍🎓 I'm an Industrial Engineer
 
-<p align="left">-🌱 I'm currently learning C#
+<p align="left">-🌱 I'm currently learning advanced Python, C# and Machine Learning
 
 <p align="left">-👨‍💻 All of my projects are available at [https://github.com/hectorherreraespinola](https://github.com/hectorherreraespinola)
 
