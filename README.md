@@ -1,7 +1,7 @@
 <div id ="header" align="center">
     <img src="https://media.giphy.com/media/LR5ZBwZHv02lmpVoEU/giphy-downsized-large.gif" width= "200"/>
     <h1 align ="center"> Hello! My name is Hector! It's great to have you here =) </h1>
-    <h3 align="center">I am a data scientist and a video games developer in process</h3>
+    <h3 align="center">I am a data scientist and a video game developer in process</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorherreraespinola&label=Profile%20views&color=0e75b6&style=flat" alt="hectorherreraespinola" /> </p>
 
