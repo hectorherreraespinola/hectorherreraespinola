@@ -12,7 +12,7 @@
 
 <p align="left">-🌱 I'm currently learning advanced Python, C# and Machine Learning
 
-<p align="left">-👨‍💻 All of my projects are available at my Portfolio in: https://hectorherreraespinola.github.io/hherrera.github.io/
+<p align="left">-👨‍💻 All of my data science projects are available at my Portfolio in: https://hectorherreraespinola.github.io/hherrera.github.io/ and my game portfolio's at https://hectorherreraespinola.itch.io/
 
 <p align="left">-💬 Ask me about Python
 
